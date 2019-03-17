@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickySortTesting", "QuickySortTesting\QuickySortTesting.csproj", "{75D00AC0-B6F5-43FC-A5B8-6AA4558C64B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickySort", "QuickySortTesting\QuickySort.csproj", "{75D00AC0-B6F5-43FC-A5B8-6AA4558C64B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickySort.Test", "QuickySort.Test\QuickySort.Test.csproj", "{5D4C4080-23A9-410D-ADCA-19A2D46DF452}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{75D00AC0-B6F5-43FC-A5B8-6AA4558C64B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75D00AC0-B6F5-43FC-A5B8-6AA4558C64B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75D00AC0-B6F5-43FC-A5B8-6AA4558C64B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D4C4080-23A9-410D-ADCA-19A2D46DF452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4C4080-23A9-410D-ADCA-19A2D46DF452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4C4080-23A9-410D-ADCA-19A2D46DF452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4C4080-23A9-410D-ADCA-19A2D46DF452}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
